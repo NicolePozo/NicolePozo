@@ -1,5 +1,5 @@
 ### Hi there 👋 holaholahola
-![Alt Text](https://i.gifer.com/Im4.gif)
+![Alt Text](asssets/gif4.gif)
 
 <!--
 **NicolePozo/NicolePozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
