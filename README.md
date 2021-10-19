@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Nicole Pozo a web dev and UX advocate
 
-<img  src="assets/developer.png" alt="developer" width="300" height="200"/>
+<img  src="assets/NicolePozo.gif"/>
 - 🔭 I’m currently a Front-end Student at Laboratoria           
 - 🌱 I’m currently learning React and NextJs
 - 📫 How to reach me: 
