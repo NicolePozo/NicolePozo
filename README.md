@@ -1,5 +1,5 @@
 ### Hi there 👋 holaholahola
-![Alt Text](assets/work-PhotoRoom.png)
+![Alt Text](assets/developer.png)
 <!--
 **NicolePozo/NicolePozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
