@@ -1,5 +1,5 @@
 ### Hi there 👋 holaholahola
-<img src="assets/developer" align="left" width="100" height="100/>
+<img src="assets/developer.png" align="left" width="100" height="100/>
 
 
 Here are some ideas to get you started:
