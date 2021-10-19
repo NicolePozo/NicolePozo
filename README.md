@@ -1,6 +1,5 @@
 ### Hi there 👋 holaholahola
-<img src="./assets/developer.png" style="float: right" width="100" height="100/>
-
+| I am text to the left  | ![developer](assets/developer.png) |
 
 Here are some ideas to get you started:
 
