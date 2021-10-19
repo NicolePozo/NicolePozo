@@ -1,13 +1,11 @@
-### Hi there 👋 holaholahola
-| Here are some ideas to get you started:
+### Hi there 👋 I'm Nicole Pozo a web dev and UX advocate
 
-- 🔭 I’m currently working on React 
+- 🔭 I’m currently working on React           <img src="assets/developer.png" alt="developer" width="250" height="180"/>
 - 🌱 I’m currently learning React and NextJs
 - 💬 
 
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... | <img src="assets/developer.png" alt="developer" width="250" height="180"/>
+- ⚡ Fun fact: ...  
 
 
 
