@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... | <img src="assets/developer.png" alt="developer" width="250" height="200"/>
+- ⚡ Fun fact: ... | <img src="assets/developer.png" alt="developer" width="250" height="180"/>
 
 
 
